@@ -1,2 +1,2 @@
 # Привет от maggich
-print("hello maggich")
+print("hello maggich")  
